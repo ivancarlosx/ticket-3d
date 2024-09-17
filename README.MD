@@ -24,11 +24,7 @@
 
 ```bash
 # Clone the repository
-$ git clone link
-
-# Enter directory
-$ cd link
-```
+$ git clone https://github.com/ivancarlosx/ticket-3d.git
 
 ---
 
