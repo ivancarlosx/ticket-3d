@@ -2,7 +2,8 @@
     <img src="/assets/img/Cover.svg">
 </h1>
 
-<h3 align="center">Access the project "https://ticket-3d.vercel.app/" target="_blank">Clicking here</a></h3>
+<h3 align="center">You can access the project <a href="https://ticket-3d.vercel.app/" target="_blank">Clicking here</a></h3>
+
 
 <p align="center">Appliction developed to learning HTML, CSS and JavaScript.
 
